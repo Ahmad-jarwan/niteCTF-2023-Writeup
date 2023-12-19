@@ -32,3 +32,13 @@
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/e84f53361383421aec11173c594bfc28621dd8f7/images/MergedImages%20(0).png "")
 <div>And so on you will continue to get all part of QR and Merge all part again </div>
 <h1>What will be inside the image </h1>
+<div>now the first QR code </div>
+
+![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/ed0ff67ffbdaecf2ced82f30694133b1c9557054/images/QR_MergedImages.png "")
+<div>i got rick roll haha it's prank i got the words of Rick Astley's song so the flag not here  </div>
+<div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the n i should get the other c and e </div>
+
+![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/364158e4ab57d64f564151d3236f77d87e18e4e1/images/QR_RGB_MergedImages.png "")
+<div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the n i should get the other c and e </div>
+
+![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/ed873e8495d53e0890040da3cb69e33a9f240bb6/images/Screenshot%202023-12-19%20234844.png "")
