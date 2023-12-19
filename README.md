@@ -7,7 +7,7 @@
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/1458742d9bd5506a67d61f0e06d37930d0534f29/Phantasmagoria/ChallengeFile.gif)
 
 <h1>How to Solve</h1>
-<div>first i understand it is a puzzel i just need to get all the images inside gif file and marge the image to get the QR code so i found this website https://ezgif.com/split he give me the image sorted </div>
+<div>first i understand it is a puzzel i just need to get all the images inside gif file and merge the image to get the QR code so i found this website https://ezgif.com/split he give me the image sorted </div>
 <h2>how did i know the image was sorted and how i know there are 2 QR </h2>
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/4c254606d76a179257f93b87ef7204ae3988a81c/images/QR%20in%20general%20.png "")
@@ -24,4 +24,5 @@
 
 <div>now how i know we have 2 QR if any one foucs on the image they are duplicated but one with dark and white background and the second with rgb color </div>
 
-
+<h1>Merge images </h1>
+<lin>https://products.aspose.app/imaging/image-merge</lin>
