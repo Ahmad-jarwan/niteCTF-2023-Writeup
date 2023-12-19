@@ -36,7 +36,6 @@
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/ed0ff67ffbdaecf2ced82f30694133b1c9557054/images/QR_MergedImages.png "")
 <div>i got rick roll haha it's prank i got the words of Rick Astley's song so the flag not here  </div>
-<div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the n i should get the other c and e </div>
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/364158e4ab57d64f564151d3236f77d87e18e4e1/images/QR_RGB_MergedImages.png "")
 
