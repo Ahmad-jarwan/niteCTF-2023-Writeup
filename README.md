@@ -19,4 +19,6 @@
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/11e4c4369c8a55bfab24e9cc2aac7b4988ac3c08/images/footer%20.png "")
 
+<div>now how i know we have 2 QR if any one foucs on the image they are duplicated but one with dark and white background and the second with rgb color </div>
+
 
