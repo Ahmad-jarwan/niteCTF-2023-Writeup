@@ -39,6 +39,7 @@
 <div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the n i should get the other c and e </div>
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/364158e4ab57d64f564151d3236f77d87e18e4e1/images/QR_RGB_MergedImages.png "")
-<div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the n i should get the other c and e </div>
+
+<div>but if we see the RGB image we will got n value the first thing i though it's an rsa and i got the N i should get the other C and E </div>
 
 ![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/ed873e8495d53e0890040da3cb69e33a9f240bb6/images/Screenshot%202023-12-19%20234844.png "")
