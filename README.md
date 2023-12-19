@@ -25,8 +25,7 @@
 <div>now how i know we have 2 QR if any one foucs on the image they are duplicated but one with dark and white background and the second with rgb color </div>
 
 <h1>Merge images </h1>
-<lin>https://products.aspose.app/imaging/image-merge</lin>
-<div>After I download the image i extract from gif file I use this website to get the full QR code by adding 10 image at once on the order </div>
+<div>After I download the image i extract from gif file I use this website https://products.aspose.app/imaging/image-merge  to get the full QR code by adding 10 image at once on the order </div>
 <div>And I do this operation twice one for Black&White QR and the second for colorized QR </div>
 <h3>As example after i merge the first 10 pices of colorized QR i got this </h3>
 
