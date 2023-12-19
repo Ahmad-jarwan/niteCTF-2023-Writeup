@@ -26,3 +26,10 @@
 
 <h1>Merge images </h1>
 <lin>https://products.aspose.app/imaging/image-merge</lin>
+<div>After I download the image i extract from gif file I use this website to get the full QR code by adding 10 image at once on the order </div>
+<div>And I do this operation twice one for Black&White QR and the second for colorized QR </div>
+<h3>As example after i merge the first 10 pices of colorized QR i got this </h3>
+
+![](https://github.com/Ahmad-jarwan/niteCTF-2023/blob/e84f53361383421aec11173c594bfc28621dd8f7/images/MergedImages%20(0).png "")
+<div>And so on you will continue to get all part of QR and Merge all part again </div>
+<h1>What will be inside the image </h1>
